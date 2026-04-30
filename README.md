@@ -28,4 +28,4 @@ npm run dev
 
 ## 📸 Aperçu
 
-![Aperçu de l'application](./screenshot.png)
+<img src="./screenshot.png" width="300">
